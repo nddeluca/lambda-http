@@ -16,7 +16,7 @@ npm install lambda-http
 
 const http = require('http');
 const express = require('express');
-const lambdaHttp = require('lambda-htpp');
+const lambdaHttp = require('lambda-http');
 
 let app;
 let server;
