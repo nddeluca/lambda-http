@@ -1,0 +1,19 @@
+{
+  "name": "lambda-http",
+  "version": "0.0.2",
+  "description": "Use Express, Hapi, or other NodeJS web frameworks on API Gateway and Lambda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nddeluca/lambda-http.git"
+  },
+  "author": "Nick DeLuca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nddeluca/lambda-http/issues"
+  },
+  "homepage": "https://github.com/nddeluca/lambda-http#readme"
+}
