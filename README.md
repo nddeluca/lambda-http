@@ -1,5 +1,5 @@
 # lambda-http
-Use Express, Hapi, or other NodeJS web frameworks on API Gateway and Lambda
+Use Express, hapi, or other NodeJS web frameworks on API Gateway and Lambda
 
 Inspired by https://github.com/awslabs/aws-serverless-express
 
@@ -42,7 +42,7 @@ exports.handler = lambdaHttp.newHandler(function(socketPath, callback) {
 });
 ```
 
-# Hapi Example
+# hapi Example
 
 ```javascript
 'use strict';
